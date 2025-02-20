@@ -1,1 +1,2 @@
 This file shows information about the company.
+Added comments
